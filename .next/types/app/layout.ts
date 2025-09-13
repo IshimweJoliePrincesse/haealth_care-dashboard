@@ -1,4 +1,4 @@
-// File: C:\Users\user\OneDrive\Desktop\healthcare_dashboard\healthcare_dash\src\app\layout.tsx
+// File: D:\deployments\healthcare_dash\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
